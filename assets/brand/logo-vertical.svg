@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 330" role="img" aria-labelledby="title desc">
+  <title id="title">Studio Legale Rizzi</title>
+  <desc id="desc">Versione verticale del marchio Studio Legale Rizzi</desc>
+  <g fill="#1E2A44" text-anchor="middle">
+    <text x="136" y="145" font-family="Baskerville, 'Libre Baskerville', Georgia, serif" font-size="154" font-weight="700" letter-spacing="-50">SR</text>
+    <rect x="92" y="176" width="116" height="1.5" fill="#3A4B70"/>
+    <text x="150" y="218" font-family="Baskerville, 'Libre Baskerville', Georgia, serif" font-size="19" letter-spacing="4">STUDIO LEGALE</text>
+    <text x="150" y="274" font-family="Baskerville, 'Libre Baskerville', Georgia, serif" font-size="47" font-weight="700" letter-spacing="7">RIZZI</text>
+  </g>
+</svg>

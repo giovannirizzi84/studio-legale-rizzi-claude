@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 104" role="img" aria-labelledby="title">
+  <title id="title">Studio Legale Rizzi, versione monocromatica</title>
+  <g fill="#1F1F1F">
+    <text x="6" y="80" font-family="Baskerville, 'Libre Baskerville', Georgia, serif" font-size="88" font-weight="700" letter-spacing="-30">SR</text>
+    <rect x="132" y="14" width="1.5" height="76"/>
+    <text x="158" y="40" font-family="Baskerville, 'Libre Baskerville', Georgia, serif" font-size="20" letter-spacing="3.2">STUDIO LEGALE</text>
+    <text x="156" y="79" font-family="Baskerville, 'Libre Baskerville', Georgia, serif" font-size="38" font-weight="700" letter-spacing="5">RIZZI</text>
+  </g>
+</svg>
